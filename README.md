@@ -4,6 +4,7 @@
 
 I am a data analytics professional with a background in business analytics, accounting, project planning, and strategic decision support. I am currently completing my M.S. in Business Analytics at Purdue University and also hold a master's degree in accounting and a CPA certification.
 
+
 I enjoy building analytical models, uncovering insights from data, and translating those insights into recommendations that support better business decisions.
 
 ---
