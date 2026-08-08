@@ -19,8 +19,8 @@ I am currently completing my M.S. in Business Analytics at Purdue University, bu
 
 | Degree / Credential | Institution | Year |
 |---|---|---|
-| M.S. Business Analytics | Purdue University | 2026 (Expected) |
-| Master's Degree in Accounting | NC State University | 2008 |
+| M.S. Business Analytics | Purdue University | Fall 2026 (Expected) |
+| M.S. Accounting | NC State University | 2008 |
 | Certified Public Accountant (CPA) | Professional Certification | Active |
 
 ---
