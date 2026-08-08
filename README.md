@@ -11,7 +11,7 @@ I enjoy building analytical models, uncovering insights from data, and translati
 
 ## About Me
 
-I am currently completing my M.S. in Business Analytics at Purdue University, building on a professional foundation in accounting, finance, and project planning. My interests include predictive analytics, customer analytics, business intelligence, and data-driven decision support. In my current role, I support global project and portfolio planning and work with cross-functional stakeholders, including scientists and marketing leaders. I bring a combination of analytical, financial, and business experience that helps me connect technical analysis with practical business decisions.
+I am currently completing my M.S. in Business Analytics at Purdue University, building on my professional background in accounting, finance, and project planning. My interests include predictive analytics, customer analytics, business intelligence, and data-driven decision support. In my current role, I support global project and portfolio planning and work with cross-functional stakeholders, including scientists and marketing leaders. I bring a combination of analytical, financial, and business experience that helps me connect technical analysis with practical business decisions.
 
 ---
 
