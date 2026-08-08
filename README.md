@@ -60,3 +60,14 @@ The dashboard uses dynamic filters, KPIs, customer segmentation, and interactive
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gisout8-cmyk/NovaRetail-Customer-Intelligence-Dashboard)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://novaretail-customer-intelligence.streamlit.app)
+---
+
+### Airbnb Rental Arbitrage Analytics — New York City
+
+Developed a multiple linear regression and interactive analytics application to evaluate Airbnb rental-arbitrage opportunities in New York City.
+
+The project analyzes how borough, minimum-night requirements, reviews, and listing availability are associated with nightly price. The portfolio version was enhanced after course completion by treating borough as a categorical variable using one-hot encoding, improving both model interpretation and out-of-sample performance.
+
+**Skills:** Python · Pandas · scikit-learn · Multiple Linear Regression · Model Evaluation · Plotly · Gradio · Business Analytics
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gisout8-cmyk/Airbnb-Rental-Arbitrage-Analytics)
