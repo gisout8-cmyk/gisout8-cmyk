@@ -1,4 +1,4 @@
-# Hi, I'm Essie M. 👋
+# Hi, I'm Essie McLoughlin, CPA 👋
 
 ### Data Analytics | Business Analytics | CPA | Strategic Decision Support
 
