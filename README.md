@@ -71,3 +71,13 @@ The project analyzes how borough, minimum-night requirements, reviews, and listi
 **Skills:** Python · Pandas · scikit-learn · Multiple Linear Regression · Model Evaluation · Plotly · Gradio · Business Analytics
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gisout8-cmyk/Airbnb-Rental-Arbitrage-Analytics)
+
+---
+
+## Contact
+
+📧 **Purdue Email:** [emcloug@purdue.edu](mailto:emcloug@purdue.edu)
+
+💼 **LinkedIn:** [Essie McLoughlin, CPA](https://www.linkedin.com/in/essie-mcloughlin-cpa-7a0ab116)
+
+💻 **GitHub:** [gisout8-cmyk](https://github.com/gisout8-cmyk)
