@@ -1,6 +1,6 @@
-# Hi, I'm Essie McLoughlin, CPA 👋
+<img src="./essie_mcloughlin_cpa_analytics_banner.png" alt="Essie McLoughlin CPA Banner" width="100%">
 
-### Data Analytics | Business Analytics | CPA | Strategic Decision Support
+# Hi, I'm Essie McLoughlin, CPA 👋
 
 I am a data analytics professional with a background in business analytics, accounting, project planning, and strategic decision support. I am currently completing my M.S. in Business Analytics at Purdue University and also hold a master's degree in accounting and a CPA certification.
 
