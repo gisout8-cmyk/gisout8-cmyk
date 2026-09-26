@@ -2,24 +2,26 @@
 
 # Hi, I'm Essie McLoughlin, CPA 👋
 
-I am a data analytics professional with a background in business analytics, accounting, project planning, and strategic decision support. I am currently completing my M.S. in Business Analytics at Purdue University and also hold a master's degree in accounting and a CPA certification.
+I am a finance, FP&A, and business analytics professional with experience in financial planning, portfolio planning, and strategic decision support.
 
 
-I enjoy building analytical models, uncovering insights from data, and translating those insights into recommendations that support better business decisions.
+I enjoy combining financial expertise with analytics to evaluate business problems, uncover insights, and translate data into practical recommendations.
 
 ---
 
 ## About Me
 
-I am currently completing my M.S. in Business Analytics at Purdue University, building on my professional background in accounting, finance, and project planning. My interests include predictive analytics, customer analytics, business intelligence, and data-driven decision support. In my current role, I support global project and portfolio planning and work with cross-functional stakeholders, including scientists and marketing leaders. I bring a combination of analytical, financial, and business experience that helps me connect technical analysis with practical business decisions.
+I am a finance and business analytics professional who enjoys using data to understand business problems, evaluate alternatives, and support better decisions. My background in accounting, financial planning, and portfolio planning shapes how I approach analytics: I focus not only on the model or visualization, but also on what the results mean for the business.
+
+I completed the degree requirements for my M.S. in Business Analytics at Purdue University in August 2026, expanding my experience in predictive analytics, customer analytics, statistical modeling, segmentation, and data visualization. This portfolio highlights selected projects that demonstrate how I apply those techniques to practical business questions and translate analytical results into clear, decision-focused insights.
 
 ---
 
 ## Education & Credentials
 
-| Degree / Credential | Institution | Year |
+| Degree / Credential | Institution | Year / Status |
 |---|---|---|
-| M.S. Business Analytics | Purdue University | Fall 2026 (Expected) |
+| M.S. Business Analytics | Purdue University | Requirements completed Aug 2026; degree to be conferred Dec&nbsp;2026 |
 | M.S. Accounting | NC State University | 2008 |
 | Certified Public Accountant (CPA) | Professional Certification | Active |
 
@@ -77,8 +79,6 @@ The project analyzes how borough, minimum-night requirements, reviews, and listi
 
 ## Contact
 
-📧 **Purdue Email:** [emcloug@purdue.edu](mailto:emcloug@purdue.edu)
-
-💼 **LinkedIn:** [Essie McLoughlin, CPA](https://www.linkedin.com/in/essie-mcloughlin-cpa-7a0ab116)
+📧 **Email:** [Gisout8@gmail.com](mailto:Gisout8@gmail.com)
 
 💻 **GitHub:** [gisout8-cmyk](https://github.com/gisout8-cmyk)
