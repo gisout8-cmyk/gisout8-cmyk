@@ -1,4 +1,4 @@
-<img src="./essie_mcloughlin_cpa_analytics_banner.png" alt="Essie McLoughlin CPA Banner" width="100%">
+<img src="./Essie_McLoughlin_CPA_Analytics_Banner.png" alt="Essie McLoughlin CPA Banner" width="100%">
 
 # Hi, I'm Essie McLoughlin, CPA 👋
 
