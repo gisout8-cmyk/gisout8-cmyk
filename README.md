@@ -47,7 +47,7 @@ I completed the degree requirements for my M.S. in Business Analytics at Purdue 
 
 ### Analytics Methods
 
-`Predictive Analytics` · `Linear Regression` · `Logistic Regression` · `K-Means Clustering` · `Customer Segmentation` · `Hypothesis Testing` · `Data Visualization` · `Dashboard Development`
+`Financial Modeling` · `Forecasting` · `Predictive Analytics` · `Linear Regression` · `Logistic Regression` · `K-Means Clustering` · `Customer Segmentation` · `Hypothesis Testing` · `Data Visualization` · `Dashboard Development`
 
 ---
 
