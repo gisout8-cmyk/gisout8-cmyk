@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-header h1,
-header .site-title,
-.site-title,
-.project-name,
-a[href="/gisout8-cmyk/"] {
+.markdown-body > h1:first-of-type {
   display: none !important;
 }
