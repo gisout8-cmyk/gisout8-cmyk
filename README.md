@@ -1,3 +1,8 @@
+<style>
+.markdown-body > h1:first-of-type {
+  display: none !important;
+}
+</style>
 <img src="./Essie_McLoughlin_CPA_Analytics_Banner.png" alt="Essie McLoughlin CPA Banner" width="100%">
 
 # Hi, I'm Essie McLoughlin, CPA 👋
