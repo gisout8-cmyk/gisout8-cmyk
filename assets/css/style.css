@@ -3,8 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.page-header,
+header h1,
+header .site-title,
 .site-title,
-.project-name {
+.project-name,
+a[href="/gisout8-cmyk/"] {
   display: none !important;
 }
