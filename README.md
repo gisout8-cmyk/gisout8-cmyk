@@ -2,7 +2,7 @@
 
 # Hi, I'm Essie McLoughlin, CPA 👋
 
-I am a finance, FP&A, and business analytics professional with experience in financial planning, portfolio planning, and strategic decision support.
+I am a finance and business analytics professional with experience in financial planning, portfolio planning, and strategic decision support.
 
 
 I enjoy combining financial expertise with analytics to evaluate business problems, uncover insights, and translate data into practical recommendations.
